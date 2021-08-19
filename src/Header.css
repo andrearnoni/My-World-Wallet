@@ -1,0 +1,30 @@
+.headerContainer {
+  background-color: rgb(56, 172, 56);
+  display: flex;
+  justify-content: space-around;
+  padding: 13px;
+}
+
+.expenseContainer {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  width: 300px;
+}
+
+@media screen and ( max-width : 1016px ) {
+
+  .headerContainer {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .expenseContainer {
+    padding-top: 15px;
+  }
+
+  .totalField {
+    width: 800px;
+  }
+}

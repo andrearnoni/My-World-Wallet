@@ -1,0 +1,33 @@
+.form {
+  align-items: center;
+  background-color: rgb(142, 143, 142);
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+}
+
+.form-item {
+  border: none;
+  display: flex;
+  flex-direction: column;
+  font-size: 18px;
+  outline: none;
+}
+
+.form-btn {
+  border-radius: 15px;
+  padding: 7px;
+}
+
+@media screen and ( max-width : 1016px ) {
+
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .form-item {
+    padding-bottom: 15px;
+    text-align: center;
+  }
+}

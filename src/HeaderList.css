@@ -1,0 +1,14 @@
+.expenseTable {
+  margin: auto;
+  table-layout: fixed;
+  text-align: center;
+  width: 95%;
+  word-wrap: break-word;
+}
+
+@media screen and ( max-width : 1016px ) {
+
+  .expenseTable {
+    display: none;
+  }
+}

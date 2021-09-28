@@ -4,7 +4,7 @@
 
 <h1 align="center">My World Wallet</h1>
 
-Application that works as a wallet, where you can specify your expenses and convert in selected currency.
+Application that works as a wallet, where you can specify your expenses and convert in selected currency. Designed in responsive mode.
 
 ## Demo
 
@@ -41,6 +41,7 @@ Mobile demo:
 * Can convert expenses in selected currency
 * Calculates total expenses
 * Works as a converter for just for queries too
+* Designed in responsive mode
 
 ## To Run Locally
 

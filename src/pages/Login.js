@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import PropTypes from 'prop-types';
 import { userLogin } from '../actions/index';
 import '../Login.css';
-import MyWallet from '../images/mywallet .png';
+import MyWallet from '../images/mywallet.png';
 
 class Login extends React.Component {
   constructor(props) {

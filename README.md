@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./src/images/mywallet.png" width="150px">
+  <img src="./src/images/mywallet.jpg" width="400px">
 </p>
 
 <h1 align="center">My World Wallet</h1>
